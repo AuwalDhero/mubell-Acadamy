@@ -43,12 +43,11 @@ const About: React.FC = () => {
                 intelligence.
               </p>
 
-              <p><strong> 
+              <p>
                 We help individuals stop people-pleasing and start living with
-                emotional authority. Our mission is to train emotionally intelligent 
-                humans who can regulate emotions in real time, communicate with empathy, 
-                and lead without losing themselves
-              </strong>
+                emotional authority. Our mission is to make emotional
+                intelligence the most valuable currency in a world overflowing
+                with information.
               </p>
 
               <div className="p-6 bg-brand-accent/5 rounded-xl border-l-4 border-brand-accent my-6">
